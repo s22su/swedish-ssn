@@ -13,7 +13,6 @@ Has three methods that are self-descriptive:
 
 Use at your own risk. **_Any comments and additions are welcome._**
 ## Example
-See example.php or here:
 ```
 $SSN = new SwedishSSN();
 $generatedSSN = $SSN->generate(); //generate random SSN (actually there is date range 1950 - 1997)
